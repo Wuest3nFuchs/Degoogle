@@ -201,6 +201,7 @@ In the future someone will be capable of accessing all that information and I as
 **Google News**
 
   * [Tiny Tiny RSS](https://tt-rss.org/)
+  * [FreshRSS](https://www.freshrss.org/)
 
 **Google Hangouts**
 
