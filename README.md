@@ -51,7 +51,7 @@ In the future someone will be capable of accessing all that information and I as
   
 **Google Chrome**
   
-  * [Mozilla Firefox](htttps://www.mozilla.org/)
+  * [Mozilla Firefox](https://www.mozilla.org/)
   * [Tor Browser](https://www.torproject.org/)
   * [Brave](https://brave.com/)
   * [Gnu IceCat](https://www.gnu.org/software/gnuzilla/)
