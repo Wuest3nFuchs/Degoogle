@@ -24,7 +24,7 @@ In the future someone will be capable of accessing all that information and I as
    * [DuckDuckGo](https://duckduckgo.com/)
    * [Qwant](https://www.qwant.com/)
    * [SwissCows](https://swisscows.com/)
-   * [SearX](https://github.com/asciimoo/searx)
+   * [SearXNG](https://github.com/searxng/searxng)
    * [Metager](https://metager.de/)
    * [StartPage](https://www.startpage.com/)
    * [Ecosia](https://www.ecosia.org/)
@@ -56,6 +56,8 @@ In the future someone will be capable of accessing all that information and I as
   * [Brave](https://brave.com/)
   * [Gnu IceCat](https://www.gnu.org/software/gnuzilla/)
   * [Waterfox](https://www.waterfox.net/)
+  * [Floorp](https://github.com/Floorp-Projects/Floorp)
+  * [Cromite](https://github.com/uazo/cromite) x86win & android
   
   
 **Google Home**
@@ -68,7 +70,6 @@ In the future someone will be capable of accessing all that information and I as
 
   * [NextCloud](https://nextcloud.com/)
   * [SpiderOak ONE](https://spideroak.com/one/)
-  * [ownCloud](https://owncloud.org/)
   * [TeamDrive](https://teamdrive.com/)
   * [Sync.com](https://www.sync.com/)
   * [Tresorit](https://tresorit.com/)
@@ -76,7 +77,6 @@ In the future someone will be capable of accessing all that information and I as
 
 
 **Chrome OS**
-  
   
   * [QubesOS](https://www.qubes-os.org/)
   * [Trisquel](https://trisquel.info)
