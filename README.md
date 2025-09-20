@@ -1,4 +1,4 @@
-![Google Logo](https://i.swisscows.ch/?link=https%3a%2f%2flogosmarken.com%2fwp-content%2fuploads%2f2018%2f05%2fGoogle-Logo.png)
+![Google Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.HxKKnpQecUK243EsYPERFwHaHa%3Fpid%3DApi&f=1&ipt=ff44294fb2ce197843de79ffbccfb342f51878be25efd5da0dbcb46cf84e079e&ipo=images)
 
 ## What does it mean?
 
