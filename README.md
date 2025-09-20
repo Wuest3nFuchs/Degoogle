@@ -29,6 +29,7 @@ In the future someone will be capable of accessing all that information and I as
    * [StartPage](https://www.startpage.com/)
    * [Ecosia](https://www.ecosia.org/)
 
+
 **Youtube**
   
   * [Dtube](https://d.tube/)
@@ -36,8 +37,10 @@ In the future someone will be capable of accessing all that information and I as
   * [Invidious](https://invidio.us/)
   * [Bitchute](https://www.bitchute.com/)
   * [Bit.tube](https://bit.tube/)
-  * [NewPipe](https://newpipe.schabi.org/)
-  
+  * [NewPipe](https://newpipe.schabi.org/) 
+  * [NewPipe](https://github.com/Red5/red5-server)
+
+    
 **Gmail**
   
   * [Protonmail](https://protonmail.com/)
@@ -200,7 +203,7 @@ In the future someone will be capable of accessing all that information and I as
 
 **Google News**
 
-  * [Tiny Tiny RSS](https://tt-rss.org/)
+  * [News-Feed-Reader](https://news.feed-reader.net/)
 
 **Google Hangouts**
 
