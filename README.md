@@ -1,3 +1,185 @@
+# 🛑 Degoogling Guide: Take Back Your Privacy
+
+![Google Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.HxKKnpQecUK243EsYPERFwHaHa%3Fpid%3DApi\&f=1\&ipt=ff44294fb2ce197843de79ffbccfb342f51878be25efd5da0dbcb46cf84e079e\&ipo=images)
+
+---
+
+## ❓ What does "Degoogling" mean?
+
+**Degoogling** means **removing Google from your digital life** — including its services like Gmail, YouTube, Google Maps, and more.
+
+---
+
+## 🚨 Why Degoogling?
+
+* 🕵️‍♂️ Google collects massive amounts of personal data
+* 🛡️ That data can be accessed, shared, and even leaked
+* 🧠 They build detailed profiles based on your searches, emails, and behavior
+* 🕳️ Participated in surveillance programs like **PRISM**
+* ❗ Privacy is a right — reclaim it
+
+📌 *"If others can do it, so can you!"*
+
+---
+
+## 💡 Google Alternatives
+
+### 🔍 Search Engines
+
+| Service       | Link                                         |
+| ------------- | -------------------------------------------- |
+| 🦆 DuckDuckGo | [duckduckgo.com](https://duckduckgo.com/)    |
+| 🔎 Qwant      | [qwant.com](https://www.qwant.com/)          |
+| 🧠 SwissCows  | [swisscows.com](https://swisscows.com/)      |
+| 🌍 SearXNG    | [GitHub](https://github.com/searxng/searxng) |
+| 🌱 StartPage  | [startpage.com](https://www.startpage.com/)  |
+| 🐘 MetaGer    | [metager.de](https://metager.de/)            |
+
+---
+
+### 📺 YouTube Alternatives
+
+| Service              | Link                                              |
+| -------------------- | ------------------------------------------------- |
+| 🧵 PeerTube          | [joinpeertube.org](https://joinpeertube.org/)     |
+| 🔴 Dtube             | [d.tube](https://d.tube/)                         |
+| 🎥 Invidious         | [invidio.us](https://invidio.us/)                 |
+| 🔗 NewPipe (Android) | [newpipe.schabi.org](https://newpipe.schabi.org/) |
+
+---
+
+### 📧 Gmail Alternatives
+
+| Service       | Link                                      |
+| ------------- | ----------------------------------------- |
+| 🔐 ProtonMail | [protonmail.com](https://protonmail.com/) |
+| 🔒 Tutanota   | [tutanota.com](https://tutanota.com/)     |
+| 🌿 Posteo     | [posteo.de](https://posteo.de/)           |
+| 🕊️ Mailfence | [mailfence.com](https://mailfence.com/)   |
+
+---
+
+### 🌐 Chrome Browser Alternatives
+
+| Browser        | Link                                              |
+| -------------- | ------------------------------------------------- |
+| 🦊 Firefox     | [mozilla.org](https://www.mozilla.org/)           |
+| 🧅 Tor Browser | [torproject.org](https://www.torproject.org/)     |
+| 🦁 Brave       | [brave.com](https://brave.com/)                   |
+| ❄️ IceCat      | [gnu.org](https://www.gnu.org/software/gnuzilla/) |
+
+---
+
+### ☁️ Google Drive Alternatives
+
+| Service          | Link                                             |
+| ---------------- | ------------------------------------------------ |
+| ☁️ NextCloud     | [nextcloud.com](https://nextcloud.com/)          |
+| 🕵️‍♀️ SpiderOak | [spideroak.com](https://spideroak.com/one/)      |
+| 🔁 Syncthing     | [GitHub](https://github.com/syncthing/syncthing) |
+
+---
+
+### 📱 Android OS Alternatives
+
+| OS              | Link                                        |
+| --------------- | ------------------------------------------- |
+| 🛡️ GrapheneOS  | [grapheneos.org](https://grapheneos.org/)   |
+| 📱 Ubuntu Touch | [ubuntu-touch.io](https://ubuntu-touch.io/) |
+| 📶 e/OS         | [e.foundation](https://e.foundation/)       |
+| 💬 Sailfish OS  | [sailfishos.org](https://sailfishos.org/)   |
+
+---
+
+## 🛠 Other Alternatives
+
+| Google Service | Alternative                                                                               |
+| -------------- | ----------------------------------------------------------------------------------------- |
+| 📅 Calendar    | [Etar](https://github.com/Etar-Group/Etar-Calendar), [Posteo](https://posteo.de/en)       |
+| 📄 Docs        | [LibreOffice](https://www.libreoffice.org/), [CryptPad](https://cryptpad.fr/)             |
+| 📷 Photos      | [Lychee](https://lychee.electerious.com/), [Piwigo](https://piwigo.org/)                  |
+| 🗺️ Maps       | [OpenStreetMap](http://www.openstreetmap.org/), [OsmAnd](https://osmand.net/)             |
+| 🗣️ Translate  | [DeepL](https://www.deepl.com/translator), [Linguee](https://www.linguee.com/)            |
+| 📊 Analytics   | [Matomo](https://matomo.org/), [Fathom](https://usefathom.com/)                           |
+| 🛍️ Play Store | [F-Droid](https://f-droid.org/), [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) |
+
+---
+
+## 🔒 Final Advice
+
+> Using less software = less attack surface.
+
+Don't just stop at replacing Google. Use **open-source**, **decentralized**, and **privacy-respecting** tools whenever possible.
+
+> ✨ Your privacy is worth it.
+
+---
+
+## 🔗 Related Resources
+
+* 🔹 [Stallman.org: Reasons Not to Use Google](https://stallman.org/google.html)
+* 🔹 [Cheatsheet: Why You Shouldn't Use Siri or Google Assistant](https://www.cheatsheet.com/gear-style/reasons-you-shouldnt-use-siri-or-google-assistant.html/)
+* 🔹 [De-Googling Your Life (Invidious)](https://www.invidio.us/watch?v=PT08J2STp3M)
+* 🔹 [Google Maps and Privacy](https://itstillworks.com/google-maps-threat-privacy-2657.html)
+
+---
+
+## ✅ License
+
+This repository is open-source and contributions are welcome.
+If you know better tools or want to help — **PRs welcome!**
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Google Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.HxKKnpQecUK243EsYPERFwHaHa%3Fpid%3DApi&f=1&ipt=ff44294fb2ce197843de79ffbccfb342f51878be25efd5da0dbcb46cf84e079e&ipo=images)
 
 ## What does it mean?
